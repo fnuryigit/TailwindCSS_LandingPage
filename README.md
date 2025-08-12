@@ -41,6 +41,6 @@ Sayfa sonunda yer alan telif hakkı bilgisi ve sosyal medya ikonları barındır
 
 ## Görseller
 
-![Ana sayfa tasarımı](images/1.jpg)
+![Ana sayfa tasarımı](images/1.png)
 
 ![Özellikler bölümü](images/2.jpg)
