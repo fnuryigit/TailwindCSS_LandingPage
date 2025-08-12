@@ -44,3 +44,8 @@ Sayfa sonunda yer alan telif hakkı bilgisi ve sosyal medya ikonları barındır
 ![Ana sayfa tasarımı](images/1.png)
 
 ![Özellikler bölümü](images/2.png)
+
+Linkten ulaşabilirsiniz
+https://fnuryigit.github.io/TailwindCSS_LandingPage/
+
+
